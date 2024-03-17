@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1710605832 source:c:\users\jvcos\desktop\apc\fatorial\main.c
+	<stdio.h>
+
+1710605863 source:c:\users\jvcos\desktop\apc\fatorial_ok\main.c
+	<stdio.h>
+

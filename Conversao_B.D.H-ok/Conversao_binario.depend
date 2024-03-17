@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710603037 source:c:\users\jvcos\desktop\apc\conversao_binario\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
