@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687059111 source:c:\users\jvcos\onedrive\Área de trabalho\trabalhofinal\bla\main.c
+	"stdio.h"
+	"stdlib.h"
+	<locale.h>
+

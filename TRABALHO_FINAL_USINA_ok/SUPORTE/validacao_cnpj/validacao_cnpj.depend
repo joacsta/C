@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1687574594 source:c:\users\jvcos\onedrive\Área de trabalho\trabalhofinal\validacao_cnpj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1687621910 source:c:\users\jvcos\onedrive\Área de trabalho\trabalhofinal\suporte_trabalho\validacao_cnpj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

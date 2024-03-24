@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1687461072 source:c:\users\jvcos\onedrive\Área de trabalho\trabalhofinal\validacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

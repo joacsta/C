@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1687637055 source:c:\users\jvcos\onedrive\Área de trabalho\trabalhofinal\validacao_cpf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1688146714 source:c:\users\jvcos\onedrive\Área de trabalho\trabalhofinal\suporte_trabalho\validacao_cpf\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+

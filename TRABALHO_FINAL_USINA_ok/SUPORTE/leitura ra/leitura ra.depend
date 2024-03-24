@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1688227200 source:c:\users\jvcos\onedrive\Área de trabalho\trabalho_apc\suporte\leitura ra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1688697088 source:c:\users\jvcos\desktop\trabalho_apc\suporte\leitura ra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

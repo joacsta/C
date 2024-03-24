@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1688492245 source:c:\users\jvcos\desktop\trabalho_apc\suporte\void6\main.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
